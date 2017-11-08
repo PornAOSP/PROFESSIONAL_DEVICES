@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PornOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Oreo>
+        <mido>
+            <Filename>PornAOSP-171107-Professional</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download the latest build">https://drive.google.com/open?id=1W2zoRPMjnmT8t0dSbN6Nf3f_rfJhtcSW</RomUrl>
+            <MD5Url
+                id="md5"
+                title="MD5"
+                description="Download MD5 of the latest build">https://drive.google.com/open?id=1-hqGRTcAIXzpbu6qJkBKLniRmbnlrvaQ</MD5Url>
+            <OpenGappsUrl
+                id="opengapps"
+                title="Open Gapps"
+                description="Download Open Gapps">http://opengapps.org</OpenGappsUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="Not working for now">https://google.com</ChangelogUrl>
+            <DonateUrl
+                id="donate"
+                title="Support"
+                description="Donate to your device maintainer">https://www.paypal.me/JavAster</DonateUrl>
+        </mido>
+    </Oreo>
+</PornOTA>
